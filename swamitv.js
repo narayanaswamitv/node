@@ -1,1 +1,2 @@
-/ narayanaswami
+a=[person1={name:"abhi",clas:"9",age:"26",display:function(){console.log(this.name+this.age+this.clas)}},person2={name:"ravi",clas:"9",age:"10",display:function(){console.log(this.name+this.age+this.clas)}},person3={name:"swami",clas:"9",age:"20",display:function(){console.log(this.name+this.age+this.clas)}},person4={name:"manu",clas:"9",age:"20",display:function(){console.log(this.name+this.age+this.clas)}},person5={name:"mazi",clas:"9",age:"20",display:function(){console.log(this.name+this.age+this.clas)}}]
+for(i=0;i<a.length;i++){v.push(a[i].name);ag.push(a[i].age);cl.push(a[i].clas)}
